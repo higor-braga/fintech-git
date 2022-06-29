@@ -1,3 +1,5 @@
 Nossa primeira alteração neste arquivo!!!
 
+Uma linha qualquer no meio do arquivo (inserido no master)
+
 Corrigido bug desse arquivo
